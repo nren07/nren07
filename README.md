@@ -1,4 +1,4 @@
-![](https://github.com/nren07/nren07/blob/main/Newsletter.png)
+![logo](https://github.com/nren07/nren07/blob/main/Newsletter.png)
 <h1 align="center">Hi 👋, I'm Narendra Singh</h1>
 <h3 align="center">👋 Hello World! I'm Nren, an enthusiastic learner on a coding adventure! 🚀</h3>
 <img align="right" width="400px" alt="coder" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
