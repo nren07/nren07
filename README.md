@@ -1,7 +1,7 @@
-![logo](https://github.com/nren07/nren07/blob/main/Newsletter.png)
+<img align="center" width="1400px" height="200px" alt="coder" src="https://github.com/nren07/nren07/blob/main/Newsletter%20(1).png">
 <h1 align="center">Hi 👋, I'm Narendra Singh</h1>
 <h3 align="center">👋 Hello World! I'm Nren, an enthusiastic learner on a coding adventure! 🚀</h3>
-<img align="right" width="400px" alt="coder" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" width="300px" alt="coder" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nren07&label=Profile%20views&color=0e75b6&style=flat" alt="nren07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nren07" alt="nren07" /></a> </p>
