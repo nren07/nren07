@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nren07](https://github.com/nren07)
 
-- 💬 Ask me about **🚀 Aspiring Frontend Developer 💻 Currently mastering JavaScript 📚 Background in Backend Development**
+- 💬 Ask me about **🚀 JAVA,OOPS,SPRINGBOOT,HTML,CSS,JAVASCRIPT,SQL**
 
 - 📫 How to reach me **imnren07@gmail.com**
 
