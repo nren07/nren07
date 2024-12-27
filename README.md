@@ -1,37 +1,25 @@
-<img align="center" width="1400px" height="200px" alt="coder" src="https://github.com/nren07/nren07/blob/main/Newsletter%20(1).png">
-<h1 align="center">Hi 👋, I'm Narendra Singh</h1>
-<h3 align="center">👋 Hello World! I'm Nren, an enthusiastic learner on a coding adventure! 🚀</h3>
-<img align="right" width="300px" alt="coder" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nren07&label=Profile%20views&color=0e75b6&style=flat" alt="nren07" /> </p>
+<img align="center" width="1400px" height="200px" alt="coder" src="https://github.com/nren07/nren07/blob/main/Newsletter%20(1).png"> <h1 align="center">Hi 👋, I'm Narendra Singh</h1> <h3 align="center">👨‍💻 Full Stack Developer | 🚀 Coding Enthusiast</h3> <img align="right" width="300px" alt="coder" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> <!-- Profile Statistics and Trophy Section --> <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nren07&label=Profile%20views&color=0e75b6&style=flat" alt="nren07" /> </p> -->
+🔭 I’m currently working on Udise Portal Automation
+(Java, Spring Boot, React, Selenium, Docker)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nren07" alt="nren07" /></a> </p>
+🌱 I’m currently expanding my expertise in Cloud Technologies and Microservices.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
+👨‍💻 All of my projects are available at GitHub
 
-- 🔭 I’m currently working on a frontend Project [Quiz Application](https://github.com/nren07/Quiz-Application)
+💬 Ask me about Core Java, OOPS, Spring Boot, React.js, Docker, and SQL
 
-- 🌱 I’m currently learning **JavaScript**
+📫 Reach me at imnren07@gmail.com
 
-- 👨‍💻 All of my projects are available at [https://github.com/nren07](https://github.com/nren07)
+📄 Check out my Resume
 
-- 💬 Ask me about **🚀 JAVA,OOPS,SPRINGBOOT,HTML,CSS,JAVASCRIPT,SQL**
+<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/nren07" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nren07" height="30" width="40" /></a> <a href="https://www.leetcode.com/nren_07" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nren_07" height="30" width="40" /></a> </p> <h3 align="left">Languages and Tools:</h3> <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </p>
+<h3 align="left">Projects:</h3> - **[Udise Portal Automation](http://udise.pytosoft.com)** *(Java, Spring Boot, React.js, Selenium, Docker)* Automated student data submission with secure JWT APIs, AWS S3 integration, and browser automation.
+LMS (Lead Management System)
+(Java, Spring Boot, Hibernate)
+Lead tracking, prioritization, and automation for optimized conversion and analytics.
 
-- 📫 How to reach me **imnren07@gmail.com**
+GST Reconciliation Portal
+(Java, Spring Boot, Microservices)
+Cloud-based platform for GST compliance, including secure file handling and user-friendly dashboards.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AXXzmgpNaLnOvrxplHJ5hhx80C3fgY_l/view?usp=sharing](https://drive.google.com/file/d/1AXXzmgpNaLnOvrxplHJ5hhx80C3fgY_l/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nren07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nren07" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nren_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nren_07" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nren07&show_icons=true&locale=en&layout=compact" alt="nren07" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nren07&show_icons=true&locale=en" alt="nren07" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nren07&" alt="nren07" /></p>
-
+<h3 align="left">Certifications:</h3> - **Acciojob Full Stack Developer Course** - **HackerRank Java & SQL Certifications** <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nren07&show_icons=true&locale=en&layout=compact" alt="nren07" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nren07&show_icons=true&locale=en" alt="nren07" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nren07&" alt="nren07" /></p>
